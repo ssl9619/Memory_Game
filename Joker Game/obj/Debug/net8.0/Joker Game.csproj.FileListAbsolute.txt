@@ -1,0 +1,14 @@
+/Users/soodels/VSC Projects/c# second/Joker Game/bin/Debug/net8.0/Joker Game
+/Users/soodels/VSC Projects/c# second/Joker Game/bin/Debug/net8.0/Joker Game.deps.json
+/Users/soodels/VSC Projects/c# second/Joker Game/bin/Debug/net8.0/Joker Game.runtimeconfig.json
+/Users/soodels/VSC Projects/c# second/Joker Game/bin/Debug/net8.0/Joker Game.dll
+/Users/soodels/VSC Projects/c# second/Joker Game/bin/Debug/net8.0/Joker Game.pdb
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.AssemblyInfoInputs.cache
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.AssemblyInfo.cs
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.csproj.CoreCompileInputs.cache
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.dll
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/refint/Joker Game.dll
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.pdb
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/Joker Game.genruntimeconfig.cache
+/Users/soodels/VSC Projects/c# second/Joker Game/obj/Debug/net8.0/ref/Joker Game.dll
