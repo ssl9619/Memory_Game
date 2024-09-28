@@ -24,4 +24,4 @@ I'm not going to go into the details of how I got the randomizing to work or any
 
 I'm glad I finished this project and I'm happy that I've been able to finish it fairly quickly by my standards. 
 
-Also I didn't completely debug it, I haven't even played a full game yet because it takes forever but I have no reason to believe why it shouldn't work :)
+:)
